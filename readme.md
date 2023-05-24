@@ -6,5 +6,5 @@
 **LOGIN DETAILS** 
 
 Admin
-user: admin
+user: admin<br>
 pass: admin
